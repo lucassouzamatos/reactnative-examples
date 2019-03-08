@@ -3,4 +3,4 @@
 
 ### Básico
 - [TodoList ](./basics/todolist)
-- [TodoList Componentizado](./basics/todolist)
+- [TodoList Componentizado](./basics/todolist-componentized)
