@@ -1,6 +1,6 @@
 # React Native Examples
 ⭐️ exemplos de códigos desenvolvidos no react-native
 
-### Básicos
-#### State
+### Básico
 - [TodoList ](./basics/todolist)
+- [TodoList Componentizado](./basics/todolist)
